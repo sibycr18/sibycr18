@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibycr18&label=Profile%20views&color=0e75b6&style=flat" alt="sibycr18" /> </p>
 
-- 🔭 I’m currently working on [Exam Seat Allocater](https://github.com/Govind-S-B/ExamHall-SeatAllocator)
+- 🔭 I’m currently working on [Exam Seat Allocator](https://github.com/Govind-S-B/ExamHall-SeatAllocator)
 
 - 🌱 I’m currently learning **Flutter**
 
