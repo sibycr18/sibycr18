@@ -2,7 +2,6 @@
 <h3 align="center">I'm a Btech student with a lot of passion in tech, programming and entrepreneurship.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sibycr18&label=Profile%20views&color=d83b7d&style=flat" alt="sibycr18" /> </p>
-<p align="center"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/sibycr18?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></p>
 
 
 - 🔭 I’m currently working on [Exam Seat Allocator](https://github.com/Govind-S-B/ExamHall-SeatAllocator)
