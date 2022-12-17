@@ -5,12 +5,11 @@
 
 - 🔭 I’m currently working on [Exam Seat Allocator](https://github.com/Govind-S-B/ExamHall-SeatAllocator)
 - 🌱 I’m currently learning **Flutter**
-- 👨‍💻 All of my projects are available at my GitHub Profile - [sibycr18](https://github.com/sibycr18)
+- 👨‍💻 All of my projects are available [here](https://github.com/sibycr18)
 - 📫 How to reach me **sibycr18@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
 <a href="https://linkedin.com/in/sibycr" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="sibycr" height="30" width="30" /></a>&nbsp;
 <a href="https://instagram.com/siby.c" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="siby.c" height="30" width="30" /></a>&nbsp;
@@ -20,9 +19,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="c" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>&nbsp;
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>&nbsp;&nbsp;
