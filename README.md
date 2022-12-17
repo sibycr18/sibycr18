@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siby C R</h1>
 <h3 align="center">I'm a Btech student with a lot of passion in tech, programming and entrepreneurship.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sibycr18&label=Profile%20views&color=0e75b6&style=flat" alt="sibycr18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sibycr18&label=Profile%20views&color=4ac41c&style=flat" alt="sibycr18" /> </p>
 
 - 🔭 I’m currently working on [Exam Seat Allocator](https://github.com/Govind-S-B/ExamHall-SeatAllocator)
 
@@ -47,6 +47,6 @@
 
 
 
-![Siby's github stats](https://github-readme-stats.vercel.app/api?username=sibycr18&show_icons=true&theme=radical&hide_border=false)
+<!-- ![Siby's github stats](https://github-readme-stats.vercel.app/api?username=sibycr18&show_icons=true&theme=radical&hide_border=false) -->
 <br><br>
 ![Profile views](https://gpvc.arturio.dev/sibycr18)
