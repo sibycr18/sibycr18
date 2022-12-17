@@ -38,7 +38,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sibycr18&show_icons=true&theme=radical&locale=en&layout=compact" alt="sibycr18" /></p>
+<!-- <p> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sibycr18&show_icons=true&theme=radical&locale=en&layout=compact" alt="sibycr18" />
+<!-- </p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sibycr18&show_icons=true&theme=radical&locale=en" alt="sibycr18" /></p>
 
@@ -48,5 +50,5 @@
 
 
 <!-- ![Siby's github stats](https://github-readme-stats.vercel.app/api?username=sibycr18&show_icons=true&theme=radical&hide_border=false) -->
-<br><br>
-![Profile views](https://gpvc.arturio.dev/sibycr18)
+<!-- <br><br> -->
+<!-- ![Profile views](https://gpvc.arturio.dev/sibycr18) -->
