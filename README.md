@@ -21,7 +21,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">&nbsp;&nbsp;
+<p align="left">&nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="c" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>&nbsp;
