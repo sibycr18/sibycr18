@@ -1,6 +1,7 @@
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90" alt="sibycr18" /> </p>
+
 <h1 align="center">Hi 👋, I'm Siby C R</h1>
 <h3 align="center">I'm a Btech student with a lot of passion in tech, programming and entrepreneurship.</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sibycr18&label=Profile%20views&color=d83b7d&style=flat" alt="sibycr18" /> </p>
 
 
@@ -36,3 +37,5 @@
 <img  align="" src="https://github-readme-stats.vercel.app/api?username=sibycr18&show_icons=true&theme=radical&locale=en" alt="sibycr18" />
 <img  align="" src="https://github-readme-streak-stats.herokuapp.com/?user=sibycr18&theme=radical" alt="sibycr18" />
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=sibycr18&show_icons=true&theme=radical&locale=en&layout=compact" alt="sibycr18" />
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" alt="sibycr18" /> </p>
