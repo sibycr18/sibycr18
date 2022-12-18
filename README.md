@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90" alt="sibycr18" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90" alt="sibycr18" /> </p>
 
 <h1 align="center">Hi 👋, I'm Siby C R</h1>
 <h3 align="center">I'm a Btech student with a lot of passion in tech, programming and entrepreneurship.</h3>
