@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Exam Hall Seat Allocator](https://github.com/Govind-S-B/ExamHall-SeatAllocator)
 - 🌱 I’m currently learning **Flutter**
 - 👨‍💻 All of my projects are available [here](https://github.com/sibycr18?tab=repositories)
-- 📫 How to reach me **sibycr18@gmail.com**
+- 📫 Reach me at **sibycr18@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
