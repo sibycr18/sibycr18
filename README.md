@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">&nbsp;
 <a href="https://linkedin.com/in/sibycr" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="sibycr" height="30" width="30" /></a>&nbsp;
-<a href="https://instagram.com/siby.c" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="siby.c" height="30" width="30" /></a>&nbsp;
+<a href="https://instagram.com/siby.cr" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="siby.c" height="30" width="30" /></a>&nbsp;
 <a href="https://twitter.com/siby_cr" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="siby_cr" height="30" width="30" /></a>&nbsp;
 <!-- <a href="https://github.com/sibycr18" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="siby_cr" height="30" width="30" /></a>&nbsp; -->
 </p>
