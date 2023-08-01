@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sibycr18&label=Profile%20views&color=d83b7d&style=flat" alt="sibycr18" /> </p>
 
 
-- 🔭 I’m currently working on [Exam Hall Seat Allocator](https://github.com/Govind-S-B/ExamHall-SeatAllocator)
+- 🔭 I’m currently working on [Certify](https://github.com/Govind-S-B/Certify)
 - 🌱 I’m currently learning **Flutter**
 - 👨‍💻 All of my projects are available [here](https://github.com/sibycr18?tab=repositories)
 - 📫 Reach me at **sibycr18@gmail.com**
