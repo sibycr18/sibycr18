@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90" alt="sibycr18" /> </p>
 
-<h1 align="center">Hi 👋, I'm Siby C R</h1>
+<h1 align="center">Hi, I'm Siby C.R.</h1>
 <h3 align="center">I'm a Btech student with a passion for 🌐tech, 💻programming, and entrepreneurship🚀. Python expert and versatile software developer, dedicated to creating smart solutions.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sibycr18&label=Profile%20views&color=d83b7d&style=flat" alt="sibycr18" /> </p>
 
